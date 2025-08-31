@@ -3,6 +3,11 @@
 > India's first comprehensive AI-powered investment fraud prevention platform with real-time social media monitoring, market manipulation detection, and SEBI compliance verification.
 
 ## 🌟 Live Demo
+<img width="1366" height="643" alt="sebi1" src="https://github.com/user-attachments/assets/1577cd94-6496-42aa-a218-90d54e40bdc8" />
+<img width="1348" height="637" alt="sebi2" src="https://github.com/user-attachments/assets/63af9c15-dc20-4bd3-92b0-078105b29d89" />
+<img width="1322" height="640" alt="sebi3" src="https://github.com/user-attachments/assets/43f2766f-5fd7-4e1a-b9cc-e162843ba73f" />
+<img width="1336" height="620" alt="sebi4" src="https://github.com/user-attachments/assets/d00c753f-6736-4d7a-a00f-3888f0ae1fa8" />
+
 **🔗 [Try InvestGuard AI](https://db1bc10a-be46-4f02-b19d-0eeb2ec417d9-00-3hmfrxi64qwd5.sisko.replit.dev/)**
 
 ---
