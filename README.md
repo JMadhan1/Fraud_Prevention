@@ -1,14 +1,32 @@
 # 🛡️ InvestGuard AI - Intelligent Investment Fraud Prevention Platform
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/downloads/)
+[![AI/ML](https://img.shields.io/badge/AI/ML-BERT%20%7C%20LSTM-green.svg)](https://github.com)
+[![Status](https://img.shields.io/badge/Status-MVP%20Ready-brightgreen.svg)](https://github.com)
+
 > India's first comprehensive AI-powered investment fraud prevention platform with real-time social media monitoring, market manipulation detection, and SEBI compliance verification.
 
-## 🌟 Live Demo
+## 🌟 Live Demo & Documentation
+
+### 🎥 **Watch Demo Video (3 Minutes)**
+**🔗 [InvestGuard AI - Complete Platform Walkthrough](https://drive.google.com/file/d/1bjMUvChLYDgsEfR-C-utQeU7S9-6aETO/view?usp=sharing)**
+
+*See InvestGuard AI in action! This video demonstrates all features with real examples of fraud detection.*
+
+### 📚 **Complete Documentation**
+**🔗 [Full Project Documentation - Read Everything Here](https://docs.google.com/document/d/1Khplgq_KJTIF1zVaehsv_YGe_DiG6SDFwe6PYWfyyGE/edit?usp=sharing)**
+
+*Comprehensive guide explaining the project from scratch - perfect for beginners who want to understand everything about InvestGuard AI.*
+
+### 💻 **Try Live Platform**
+**🔗 [InvestGuard AI Platform](https://db1bc10a-be46-4f02-b19d-0eeb2ec417d9-00-3hmfrxi64qwd5.sisko.replit.dev/)**
+
+### 📸 **Platform Screenshots**
 <img width="1366" height="643" alt="sebi1" src="https://github.com/user-attachments/assets/1577cd94-6496-42aa-a218-90d54e40bdc8" />
 <img width="1348" height="637" alt="sebi2" src="https://github.com/user-attachments/assets/63af9c15-dc20-4bd3-92b0-078105b29d89" />
 <img width="1322" height="640" alt="sebi3" src="https://github.com/user-attachments/assets/43f2766f-5fd7-4e1a-b9cc-e162843ba73f" />
 <img width="1336" height="620" alt="sebi4" src="https://github.com/user-attachments/assets/d00c753f-6736-4d7a-a00f-3888f0ae1fa8" />
-
-**🔗 [Try InvestGuard AI](https://db1bc10a-be46-4f02-b19d-0eeb2ec417d9-00-3hmfrxi64qwd5.sisko.replit.dev/)**
 
 ---
 
@@ -69,7 +87,7 @@ Fraud network visualization and detection
 - Entity relationship analysis
 - Cross-platform fraud ring detection
 
-### 4. **AI Guardian** *(Coming Soon)*
+### 4. **AI Guardian** *(In Development)*
 Personal 24/7 investment protection
 - Individual behavioral pattern learning
 - Real-time account monitoring
@@ -205,8 +223,8 @@ graph TB
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/investguard-ai.git
-cd investguard-ai
+git clone https://github.com/JMadhan1/Fraud_Prevention.git
+cd Fraud_Prevention
 ```
 
 2. **Set up Python Environment**
@@ -404,27 +422,26 @@ Response:
 }
 ```
 
-**📚 [Full API Documentation](https://docs.investguard.ai)**
-
----
+**📚 [Full API Documentation](https://docs.google.com/document/d/1Khplgq_KJTIF1zVaehsv_YGe_DiG6SDFwe6PYWfyyGE/edit?usp=sharing)**
 
 ---
 
 ## 📞 Contact & Support
 
-### **Team**
-- **Lead Developer**: J Madhan(mailto:jmadhanplacement@gmail.com)
-  
-### **Support Channels**
-- 📧 **Email**: support@investguard.ai
-- 💬 **Discord**: [Join our community](https://discord.gg/investguard)
-- 🐦 **Twitter**: [@InvestGuardAI](https://twitter.com/investguardai)
-- 📱 **LinkedIn**: [InvestGuard AI](https://linkedin.com/company/investguard-ai)
+### **Project Lead**
+**J Madhan**
+- 📧 **Email**: jmadhanplacement@gmail.com
+- 💼 **Role**: Lead Developer & AI Engineer
+- 🎯 **Team**: AI Lone Star
 
-### **Business Inquiries**
-- 🤝 **Partnerships**: partnerships@investguard.ai
-- 💼 **Enterprise Solutions**: enterprise@investguard.ai
-- 📊 **Media & Press**: press@investguard.ai
+### **For Any Doubts or Questions**
+📧 **Contact**: jmadhanplacement@gmail.com
+
+### **Support Channels**
+- 📧 **General Support**: jmadhanplacement@gmail.com
+- 🐛 **Bug Reports**: Create GitHub Issues
+- 💡 **Feature Requests**: Email with subject "Feature Request"
+- 🤝 **Collaboration**: Email with subject "Collaboration Inquiry"
 
 ---
 
@@ -440,9 +457,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Indian Tech Community** for continuous feedback and support
 - **Open Source Contributors** who made this project possible
 - **Beta Testers** who helped us identify and fix critical issues
+- **AI Lone Star Team** for dedication and innovation
 
 ---
 
+## 📊 Project Statistics
+
+![GitHub stars](https://img.shields.io/github/stars/JMadhan1/Fraud_Prevention?style=social)
+![GitHub forks](https://img.shields.io/github/forks/JMadhan1/Fraud_Prevention?style=social)
+![GitHub issues](https://img.shields.io/github/issues/JMadhan1/Fraud_Prevention)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/JMadhan1/Fraud_Prevention)
 
 ---
 
@@ -452,10 +476,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🚀 Join us in making investment fraud a thing of the past! 🚀**
 
-[**🔗 Try InvestGuard AI Now**](https://db1bc10a-be46-4f02-b19d-0eeb2ec417d9-00-3hmfrxi64qwd5.sisko.replit.dev/)
+### Quick Links
+🔗 [**Try Platform**](https://db1bc10a-be46-4f02-b19d-0eeb2ec417d9-00-3hmfrxi64qwd5.sisko.replit.dev/) | 🎥 [**Watch Demo**](https://drive.google.com/file/d/1bjMUvChLYDgsEfR-C-utQeU7S9-6aETO/view?usp=sharing) | 📚 [**Read Docs**](https://docs.google.com/document/d/1Khplgq_KJTIF1zVaehsv_YGe_DiG6SDFwe6PYWfyyGE/edit?usp=sharing)
+
+**📧 Questions? Contact: jmadhanplacement@gmail.com**
 
 </div>
 
 ---
 
-*Last Updated: August 31, 2025*
+*Last Updated: August 31, 2025 | Developed by J Madhan | AI Lone Star Team*
